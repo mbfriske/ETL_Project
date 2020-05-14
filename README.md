@@ -21,4 +21,4 @@ Our data was stored in a PostgreSQL database called “SuperUberDuberProject”.
 ![Starbucks per Country](/images/amount_starbuck_country.png)
 
 ![Country Happiness](/images/happiness_country.png)
-
+.
