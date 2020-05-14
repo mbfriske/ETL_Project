@@ -13,3 +13,10 @@ Formatting – Using the country code data, reformatted Starbucks Country data f
 
 #### Load: 
 Our data was stored in a PostgreSQL database called “SuperUberDuberProject”. Within that are two tables; “happiness” and “store_directory.”
+
+![Happiness vs Starbucks](/images/amount_happiness_country.png)
+
+![Starbucks per Country](/images/amount_starbuck_country.png)
+
+![Country Happiness](/images/happiness_country.png)
+
